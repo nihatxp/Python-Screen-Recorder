@@ -1,5 +1,5 @@
 # Python-Screen-Recorder
-## Kodu indirmek için:
+## Kodu kullanmak için:
 ```
 git clone https://github.com/nihatxp/Python-Screen-Recorder 
 cd Python-Screen-Recorder 
